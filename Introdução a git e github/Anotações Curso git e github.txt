@@ -1,0 +1,5 @@
+Os comandos do terminal gitbash, sao similares ao do unix.
+
+se lembrar do git.init.
+
+Cuidado com a inconsistencia de versão ao clonar um repositório alterado.
